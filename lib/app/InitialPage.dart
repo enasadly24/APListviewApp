@@ -1,7 +1,7 @@
 import 'package:api_task1/Resources/Routes.dart';
 import 'package:flutter/material.dart';
 class InitialPage extends StatefulWidget {
-  const InitialPage({Key? key}) : super(key: key);
+  const InitialPage({Key key}) : super(key: key);
 
   @override
   _InitialPageState createState() => _InitialPageState();

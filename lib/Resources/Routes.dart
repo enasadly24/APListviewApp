@@ -1,5 +1,5 @@
 
-import 'package:api_task1/UI/UI.dart';
+import 'package:api_task1/View/UI/UI.dart';
 import 'package:api_task1/app/InitialPage.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';

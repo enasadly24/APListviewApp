@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:api_task1/Data/API_Model.dart';
+import 'package:api_task1/Model/API_Model.dart';
 import 'package:api_task1/Network/APIurl.dart';
 import 'package:http/http.dart' as http;
 

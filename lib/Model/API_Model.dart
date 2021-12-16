@@ -6,9 +6,9 @@ String albumToJson(List<Album> data) => json.encode(List<dynamic>.from(data.map(
 
 class Album {
   Album({
-    required this.userId,
-    required  this.id,
-    required  this.title,
+      this.userId,
+      this.id,
+      this.title,
   });
 
   final int userId;
